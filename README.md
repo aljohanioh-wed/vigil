@@ -11,11 +11,11 @@ Vigil is a real-time security and surveillance system designed to detect potenti
 
 ## How It Works
 
-Vigil uses computer vision and machine learning models to analyze video frames in real time, flagging anomalies such as fire, smoke, or concealed identities that may indicate a security concern.
+Vigil uses computer vision and machine learning models to analyze video frames in real time, flagging anomalies such as fire, smoke, or concealed identities that may indicate a security concern.                                                                                                                                                    with your help vigil could potentially support cctv cameras in the future. 
 
 ## Tech Stack
 
-- Python
+- Python                                                                                                                                        
 - OpenCV
 
 ## Installation
@@ -23,4 +23,9 @@ Vigil uses computer vision and machine learning models to analyze video frames i
 ```bash
 git clone https://github.com/aljohanioh-wed/vigil.git
 cd vigil
+
+
+
+
 pip install -r requirements.txt
+sssd
