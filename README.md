@@ -23,9 +23,5 @@ Vigil uses computer vision and machine learning models to analyze video frames i
 ```bash
 git clone https://github.com/aljohanioh-wed/vigil.git
 cd vigil
-
-
-
-
 pip install -r requirements.txt
 sssd
